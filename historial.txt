@@ -1,13 +1,7 @@
-Esto es un título
+HOla mundo mi nombre
 
-Esto es un título centrado
+es
 
-Aquí va un párrafo con negrita, cursiva, subrayado y colores.
+jose
 
-
-Y esto de arriba es la foto de unas Suricatas.
-
-Aqui vamos a hacer un blog post
-Y este es el parrafo de inicio
-
-Hola mundo mi nombre es Jose
+perez
