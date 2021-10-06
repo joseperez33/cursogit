@@ -1,7 +1,9 @@
-HOla mundo mi nombre
+Hola mundo mi nombre
 
 es
 
-jose
+Jose
 
-perez
+Perez
+
+y estoy aprendiendo GIT
